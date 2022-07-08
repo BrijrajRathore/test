@@ -1,2 +1,1 @@
-hi this is a test file 
-and we are in feature1 branchi\ZZZ 
+this is a new file 
